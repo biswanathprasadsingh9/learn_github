@@ -1,0 +1,11 @@
+git init
+
+git remote address......
+
+git add .
+
+git commit -m 'name'
+
+git pull
+
+git push -u origin master
